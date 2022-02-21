@@ -1,0 +1,22 @@
+.jsEasyCalc {
+    width: 400px;
+    margin: 0 auto;
+    background-color: cornsilk;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.jsEasyCalc .buttonsBlock button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+.jsEasyCalc .inputsBlock{
+    margin: 20px;
+}
+.jsEasyCalc .inputsBlock .inputBlock{
+    display:inline-block;
+}
+.jsEasyCalc .inputsBlock .inputBlock label{
+    display:block;
+}
